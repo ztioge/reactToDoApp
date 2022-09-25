@@ -1,3 +1,5 @@
+This ToDoApp has been created following the developedbyEd tutorial with a customization made by me in order to practice React.js, CSS and HTML.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
